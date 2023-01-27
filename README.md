@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nelsonelaye
-- 👀 I’m interested in web development, blockchain, web3, commerce, supply-chain, VR technology, automation, AI/ML
-- 🌱 I’m currently learning Software engineering principles, blockchain tech and cryptocurrency
+- 👀 I’m interested in web development, blockchain, VR technology, automation, AI/ML
+- 🌱 I’m currently learning Software engineering principles, AI and Python for Machine Learning
 - 💞️ I’m looking to collaborate on any web devlopment project or other projects that provides opportunity for growth and valuable contribution
 - 📫 How to reach me: nelsonelaye@gmail.com or https://linkedin.com/in/elayenelson
 
